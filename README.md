@@ -1,6 +1,7 @@
 # Recommendation System Using (Rank, User-User, Matrix Factorization) on Streaming App
 
-
+### Publication: 
+https://medium.com/@malrashidan95/recommendation-system-using-rank-user-user-matrix-factorization-on-streaming-app-237863af10b0
 
 # Project Overview
 This project is intended to leverage my skills in data science and apply recommendation_system to a streaming service. The goal of this project is help the company understand different approaches in recommendation_systems in order to implement the models in their products.
